@@ -9,10 +9,13 @@ import {Recipe} from './recipe';
 export class RecipesComponent implements OnInit {
   selectedRecipe: Recipe;
 
+
   constructor() {
+
   }
 
   ngOnInit() {
+
   }
 
 }
